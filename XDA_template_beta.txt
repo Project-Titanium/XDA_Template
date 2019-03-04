@@ -54,7 +54,7 @@ Flash ROM and GApps (And any mods you use)
 -[MENTION=8936073]Thespartann[/MENTION](Developer)
 -[MENTION=8868363]K3RN3L_P4N1C[/MENTION](Web Developer)
 - [URL="https://github.com/LineageOS"]LineageOS[/URL]
-- [URL="https://github.com/GZOSP"]LineageOS[/URL]
+- [URL="https://github.com/GZOSP"]GZOSP[/URL]
 [/SIZE]
 
 Have a feature request? Don't spam here. Visit our Telegram group! 
