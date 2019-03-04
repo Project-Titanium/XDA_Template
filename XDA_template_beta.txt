@@ -1,0 +1,70 @@
+Title - [ROM][9.0][UNOFFICIAL/OFFICIAL] ProjectTitanium Beta [DEVICE_NAME][DATE]
+
+[CENTER][IMG]https://i.imgur.com/ftQQeqB.png[/IMG]
+
+[CODE]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+[B][SIZE="4"][COLOR="Blue"]"ProjectTitanium is an GZOSP-Based-Custom Aftermarket Firmware Distribution for Android Devices. Our Goal is to Deliver Performance with many Features, Security, Cleanliness, and good Battery Life, Trying to make Something Unique than any other Android ROM. We Hope That you'll Love our Work, and help us in Making it even Better in the Future.[/COLOR][/SIZE][/B]
+
+[B][SIZE="4"][COLOR="Blue"]Features:[/COLOR][/SIZE][/B]
+
+[COLOR="Red"]Work In Progress[/COLOR]
+
+[COLOR="Blue"]Featured Stuffs:[/COLOR] 
+- TiPapers 
+- About ProjectTitanium
+
+[COLOR="Red"]And many more being added regulary![/COLOR]
+
+[SIZE="4"][B][COLOR="Blue"]Instructions for flashing:[/COLOR][/B][/SIZE] 
+Download ROM and GApps. 
+Copy ROM and GApps to internal storage. 
+Wipe /data, /system and /cache. 
+Flash ROM and GApps (And any mods you use)
+Enjoy :P
+
+[SIZE="4"][B][COLOR="Blue"]Instructions for update:[/COLOR][/B][/SIZE] 
+Download ROM and GApps. 
+Copy ROM and GApps to internal storage. 
+Flash ROM and GApps (And any mods you use)
+
+[COLOR="Red"][B]Note:[/B] First boot and boots after every update can take some time. They may even loop a few times. We do not support custom kernels or mods like MultiROM. If you have an issue, make sure your edits aren't interfering with the issue you're reporting. [/COLOR]
+
+[SIZE="4"][B][COLOR="Blue"]Downloads:[/COLOR][/B][/SIZE] 
+
+[SIZE="5"][URL="ENTER DOWNLOAD LINK"]Unofficial/Official Builds[/URL] | [URL="opengapps.org"]GApps[/URL]
+[/SIZE]
+
+[SIZE="4"][B][COLOR="Blue"]Sources:[/COLOR][/B][/SIZE] 
+
+[SIZE="5"][URL="Add your Device Tree Source"]Device Tree[/URL] | [URL="Add your Kernel Source here"]Kernel[/URL] | [URL="https://github.com/Project-Titanium/"]ROM[/URL][/SIZE]
+
+[B][SIZE=6][COLOR=#0000b3][U]Credits[/U][/COLOR][/SIZE][/B] 
+[SIZE=4]
+-[MENTION=8173346]XTutorials[/MENTION](Founder/Lead Developer)
+-[MENTION=7019289]DarkJoker360[/MENTION](Co-Founder/Lead Developer)
+-[MENTION=8936073]Thespartann[/MENTION](Developer)
+-[MENTION=8868363]K3RN3L_P4N1C[/MENTION](Web Developer)
+- [URL="https://github.com/LineageOS"]LineageOS[/URL]
+- [URL="https://github.com/GZOSP"]LineageOS[/URL]
+[/SIZE]
+
+Have a feature request? Don't spam here. Visit our Telegram group! 
+[B]ProjectTitanium Official Website:[/B] 
+[URL="https://project-titanium.github.io/"]ProjectTitanium[/URL] 
+[B]ProjectTitanium Official Telegram group:[/B] 
+[URL="https://t.me/joinchat/F6TxBlRqsj4ZFpkPgOx3BQ"]Telegram[/URL]
+
+[B][SIZE=6][COLOR=#0000b3][U]Support Us[/U][/COLOR][/SIZE][/B] 
+Hello, Gracious human! if you like our work, you may support us by donating:
+[URL="https://paypal.me/XTutorials"]PayPal[/URL]
+
+[/CENTER]
