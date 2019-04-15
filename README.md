@@ -74,7 +74,7 @@ First boot and boots after every update can take some time. They may even loop a
 
 - [Thespartann](https://forum.xda-developers.com/member.php?u=8936073)(Developer)
 
-- [K3RN3L_P4N1C](https://forum.xda-developers.com/member.php?u=8936073) (Web Developer)
+- [K3RN3L_P4N1C](https://forum.xda-developers.com/member.php?u=8868363) (Web Developer)
 
 - [LineageOS](https://github.com/LineageOS)
 
