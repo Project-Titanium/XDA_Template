@@ -1,7 +1,7 @@
 # XDA_Template
 XDA Thread Template for this ROM.
 
-# [ROM][9.0][UNOFFICIAL/OFFICIAL] ProjectTitanium Beta [DEVICE_NAME][DATE]
+# [ROM][9.0][UNOFFICIAL/OFFICIAL] ProjectTitanium 1.0 [DEVICE_NAME][DATE]
 ![ProjectTitanium](https://i.imgur.com/ftQQeqB.png)
 
 ## Disclaimer:
@@ -68,15 +68,19 @@ First boot and boots after every update can take some time. They may even loop a
 
 ## Credits:
 
-- [Xtutorials](https://forum.xda-developers.com/member.php?u=8173346) (Founder/Lead Developer)
+- [XTutorials](https://forum.xda-developers.com/member.php?u=8173346) (Founder/Lead Developer)
 
 - [DarkJoker360](https://forum.xda-developers.com/member.php?u=7019289) (Co-Founder/Lead Developer)
 
-- [Ramyski](https://forum.xda-developers.com/member.php?u=8538037)(Co-Founder/LeAd ShItHeAd)
+- [Ramyski](https://forum.xda-developers.com/member.php?u=8538037)(Senior Developer)
 
-- [Thespartann](https://forum.xda-developers.com/member.php?u=8936073)(Developer)
+- [Pavel Petrov](https://forum.xda-developers.com/member.php?u=8936073)(Co-Founder/Lead Web Developer)
 
 - [K3RN3L_P4N1C](https://forum.xda-developers.com/member.php?u=8868363) (Web Developer)
+
+
+
+
 
 - [LineageOS](https://github.com/LineageOS)
 
