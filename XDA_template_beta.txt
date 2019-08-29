@@ -1,4 +1,4 @@
-Title - [ROM][9.0][UNOFFICIAL/OFFICIAL] ProjectTitanium Beta [DEVICE_NAME][DATE]
+Title - [ROM][9.0][UNOFFICIAL/OFFICIAL] ProjectTitanium [DEVICE_NAME][DATE]
 
 [CENTER][IMG]https://i.imgur.com/ftQQeqB.png[/IMG]
 
@@ -16,7 +16,6 @@ Title - [ROM][9.0][UNOFFICIAL/OFFICIAL] ProjectTitanium Beta [DEVICE_NAME][DATE]
 
 [B][SIZE="4"][COLOR="Blue"]Features:[/COLOR][/SIZE][/B]
 
-[COLOR="Red"]Work In Progress[/COLOR]
 
 [COLOR="Blue"]Featured Stuffs:[/COLOR] 
 - TiPapers 
@@ -50,11 +49,14 @@ Flash ROM and GApps (And any mods you use)
 [B][SIZE=6][COLOR=#0000b3][U]Credits[/U][/COLOR][/SIZE][/B] 
 [SIZE=4]
 -[MENTION=8173346]XTutorials[/MENTION](Founder/Lead Developer)
--[MENTION=7019289]DarkJoker360[/MENTION](Co-Founder/Lead Developer)
--[MENTION=8936073]Thespartann[/MENTION](Developer)
--[MENTION=8868363]K3RN3L_P4N1C[/MENTION](Web Developer)
-- [URL="https://github.com/LineageOS"]LineageOS[/URL]
-- [URL="https://github.com/GZOSP"]GZOSP[/URL]
+-[MENTION=7019289]DarkJoker360[/MENTION](Co-Founder/Senior Developer)
+-[MENTION=9370644]ender1324[/MENTION](Co-Founder/Lead Web Developer)
+-[MENTION=8538037]Ramyski[/MENTION](Senior Developer)
+
+
+-[URL="https://github.com/LineageOS"]LineageOS[/URL]
+-[URL="https://github.com/GZOSP"]GZOSP[/URL]
+-[URL="https://github.com/nitrogen-project"]Nitrogen-Project[/URL]
 [/SIZE]
 
 Have a feature request? Don't spam here. Visit our Telegram group! 
